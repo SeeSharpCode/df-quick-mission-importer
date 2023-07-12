@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DFQuickMissionImporter": {
+      "commandName": "Project",
+      "commandLineArgs": "D06M#1"
+    }
+  }
+}
